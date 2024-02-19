@@ -1,1 +1,46 @@
-stud_id,firstname,lastname,major,classification,gpa
+
+Student_ID,Pin,First Name,Last Name,City,State,Major,Classification,GPA
+
+124567890,2121,bob,norbert,bothell,wa,fin,jr,2.7
+
+345678901,1141,wally,kendall,seattle,wa,mis,sr,2.8
+
+789012345,2212,roberto,morales,seattle,wa,fin,jr,2.5
+
+890123456,2344,luke,brazzi,redmond,wa,mis,sr,2.2
+
+Student_ID,Pin,First Name,Last Name,City,State,Major,Classification,GPA
+124567890,2121,bob,norbert,bothell,wa,fin,jr,2.7
+345678901,1141,wally,kendall,seattle,wa,mis,sr,2.8
+789012345,2212,roberto,morales,seattle,wa,fin,jr,2.5
+890123456,2344,luke,brazzi,redmond,wa,mis,sr,2.2
+Student_ID,Pin,First Name,Last Name,City,State,Major,Classification,GPA
+124567890,2121,bob,norbert,bothell,wa,fin,jr,2.7
+345678901,1141,wally,kendall,seattle,wa,mis,sr,2.8
+789012345,2212,roberto,morales,seattle,wa,fin,jr,2.5
+890123456,2344,luke,brazzi,redmond,wa,mis,sr,2.2
+Student_ID,Pin,First Name,Last Name,City,State,Major,Classification,GPA
+124567890,2121,bob,norbert,bothell,wa,fin,jr,2.7
+345678901,1141,wally,kendall,seattle,wa,mis,sr,2.8
+789012345,2212,roberto,morales,seattle,wa,fin,jr,2.5
+890123456,2344,luke,brazzi,redmond,wa,mis,sr,2.2
+Student_ID,Pin,First Name,Last Name,City,State,Major,Classification,GPA
+124567890,2121,bob,norbert,bothell,wa,fin,jr,2.7
+345678901,1141,wally,kendall,seattle,wa,mis,sr,2.8
+789012345,2212,roberto,morales,seattle,wa,fin,jr,2.5
+890123456,2344,luke,brazzi,redmond,wa,mis,sr,2.2
+Student_ID,Pin,First Name,Last Name,City,State,Major,Classification,GPA
+124567890,2121,bob,norbert,bothell,wa,fin,jr,2.7
+345678901,1141,wally,kendall,seattle,wa,mis,sr,2.8
+789012345,2212,roberto,morales,seattle,wa,fin,jr,2.5
+890123456,2344,luke,brazzi,redmond,wa,mis,sr,2.2
+Student_ID,Pin,First Name,Last Name,City,State,Major,Classification,GPA
+124567890,2121,bob,norbert,bothell,wa,fin,jr,2.7
+345678901,1141,wally,kendall,seattle,wa,mis,sr,2.8
+789012345,2212,roberto,morales,seattle,wa,fin,jr,2.5
+890123456,2344,luke,brazzi,redmond,wa,mis,sr,2.2
+Student_ID,Pin,First Name,Last Name,City,State,Major,Classification,GPA
+124567890,2121,bob,norbert,bothell,wa,fin,jr,2.7
+345678901,1141,wally,kendall,seattle,wa,mis,sr,2.8
+789012345,2212,roberto,morales,seattle,wa,fin,jr,2.5
+890123456,2344,luke,brazzi,redmond,wa,mis,sr,2.2
